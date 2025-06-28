@@ -8,3 +8,4 @@ Optimizar el control de estacionamiento mediante una gestión eficiente y en tie
 
 # Diagrama de Modelo Relacional
 
+![Alt_Image](https://github.com/gsalazare/bd-cochera/blob/2cb9c1f3e3a9a8673183c7b005d866fc2294b17e/Recursos/diagrama%20de%20modelo%20relacional.png)
