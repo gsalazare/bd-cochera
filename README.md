@@ -4,4 +4,5 @@
 <h2>Objetivo:</h2>
 <p style="text-align: justify;">Optimizar el control de estacionamiento mediante una gestión eficiente y en tiempo real de las plazas y pagos, mejorando la toma de decisiones y la experiencia del usuario.</p>
 
-# Diagrama de Modelo Relacional
+<h1>Diagrama de Modelo Relacional</h1>
+
